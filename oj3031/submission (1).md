@@ -15,7 +15,7 @@
 หมายเลข/ชื่อโจทย์ OJ:
 
 ```text
-OJ3024 - [LEARNING LOGS] SurprisingVote
+3031
 ```
 
 OJ submission ID ถ้ามีการส่งแล้ว:
